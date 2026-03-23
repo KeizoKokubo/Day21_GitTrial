@@ -1,0 +1,2 @@
+# .cursorrules の記述例
+コミットメッセージを生成する際は、Conventional Commitsに従い、プレフィックスは英語（feat, fix, docs等）、説明文は日本語で出力してください。
