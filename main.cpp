@@ -7,7 +7,7 @@ int main() {
     string heroName;
     int slimeHP = 10;
     int heroSpeed = 10; // 勇者の速度
-    int slimeSpeed = 2; // スライムの速度
+    int slimeSpeed = 1; // スライムの速度
 
     cout << "=== Git Quest ===" << endl;
     cout << "勇者よ、名前を入力してください: ";
