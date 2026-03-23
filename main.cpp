@@ -6,6 +6,8 @@ using namespace std;
 int main() {
     string heroName;
     int slimeHP = 10;
+    int heroSpeed = 10; // 勇者の速度
+    int slimeSpeed = 5; // スライムの速度
 
     cout << "=== Git Quest ===" << endl;
     cout << "勇者よ、名前を入力してください: ";
