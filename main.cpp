@@ -8,7 +8,7 @@ int main() {
     int slimeHP = 10;
 
     cout << "=== Git Quest ===" << endl;
-    cout << "勇者よ、名前を入力せよ: ";
+    cout << "勇者よ、名前を入力してください: ";
     cin >> heroName;
 
     cout << "\n" << heroName << " が現れた！" << endl;
