@@ -21,7 +21,7 @@ int main() {
 
     if (slimeHP <= 0) {
         cout << "スライムを倒した！" << endl;
-        cout << heroName << " は 経験値を 5 獲得した！" << endl;
+        cout << heroName << " は 経験値を 6 獲得した！" << endl;
     }
 
     return 0;
