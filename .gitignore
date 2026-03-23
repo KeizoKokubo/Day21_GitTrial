@@ -1,0 +1,10 @@
+# Visual Studioの一時ファイルや個人設定を無視する
+.vs/
+*.user
+*.sln.docstates
+DocumentLayout.json
+
+# ビルドして生成される不要なファイル群を無視する
+x64/
+Debug/
+Release/
