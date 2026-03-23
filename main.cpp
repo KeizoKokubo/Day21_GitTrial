@@ -6,8 +6,10 @@ using namespace std;
 int main() {
     string heroName;
     int slimeHP = 10;
-    int heroSpeed = 10; // 勇者の速度
-    int slimeSpeed = 5; // スライムの速度
+    int heroMode = 0; // 勇者のモード(0:通常, 1:攻撃, 2:防御)
+    // とりあえず勇者は通常攻撃で20ダメージ、スライムは通常攻撃で5ダメージ
+    int heroSpeed = 20; // 勇者の速度
+    int slimeSpeed = 3; // スライムの速度
 
     cout << "=== Git Quest ===" << endl;
     cout << "勇者よ、名前を入力してください: ";
