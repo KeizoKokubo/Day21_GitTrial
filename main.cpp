@@ -15,9 +15,9 @@ int main() {
     cout << "野生のスライムが現れた！ (HP: " << slimeHP << ")" << endl;
 
     cout << "\n" << heroName << " の攻撃！" << endl;
-    cout << "スライムに 10 のダメージ！" << endl;
+    cout << "スライムに 20 のダメージ！" << endl;
     
-    slimeHP -= 10;
+    slimeHP -= 20;
 
     if (slimeHP <= 0) {
         cout << "スライムを倒した！" << endl;
